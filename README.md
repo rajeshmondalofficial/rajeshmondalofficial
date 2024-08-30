@@ -1,5 +1,7 @@
 # Hi, I am Rajesh Mondal
 
+I'm a software developer who is passionate about nothing but just coding.
+
 <!--
 **rajeshmondalofficial/rajeshmondalofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
